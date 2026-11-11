@@ -1,4 +1,4 @@
- Student Task Tracker
+Student Task Tracker
 ## Overview
 Students need a simple way to track coursework tasks and see what remains.
 The proposed system will help a student record tasks and mark them complete.The goal is to make
